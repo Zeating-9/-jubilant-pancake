@@ -1,0 +1,37 @@
+{
+  "id": "1577538",
+  "name": "Lancome",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4553731",
+      "name": "聊天记录",
+      "font_class": "liaotianjilu",
+      "unicode": "e7dc",
+      "unicode_decimal": 59356
+    },
+    {
+      "icon_id": "4933441",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "5634903",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "f261",
+      "unicode_decimal": 62049
+    },
+    {
+      "icon_id": "6742309",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    }
+  ]
+}

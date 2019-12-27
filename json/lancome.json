@@ -1,0 +1,57 @@
+[
+    {"title":"【圣诞礼】 菁纯臻颜滋润眼霜","specs":"20ml","english":"Absolue Yeux Valueset","img":"img/facecream_20ml.jpg","price":"5","code":"001","type":["yan"]},
+
+    {"title":"【圣诞礼】菁纯臻颜面霜","specs":"轻润版 60ml","english":"Absolue Day Cream Valueset","img":"img/facecream_60ml.jpg","price":"9","code":"002","type":["mian"]},
+
+    {"title":"【圣诞礼】全新菁纯玫瑰精粹水*","specs":"150ml","english":"Absolue Rose 80 Valueset","img":"img/yollowwater.jpg","price":"4","code":"003","type":["shui"]},
+
+    {"title":"菁纯臻颜滋润眼霜","specs":"20ml","english":"Absolue Yeux Precious Cells Eyecream","img":"img/eyecream_20ml.jpg","price":"5","code":"004","type":["yan"]},
+
+    {"title":"菁纯臻颜面霜","specs":"60ml 轻润版","english":"Absolue Day Cream Valueset","img":"img/eyecream_20ml.jpg","price":"9","code":"005","type":["mian"]},
+
+    {"title":"全新菁纯玫瑰精粹水*","specs":"150ml","english":"Absolue Rose 80","img":"img/yollowwater.jpg","price":"4","code":"006","type":["yan"]},
+
+    {"title":"菁纯臻颜防晒隔离乳","specs":"30ml","english":"Absolue Precious Cells UV","img":"img/UV.jpg","price":"4","code":"007","type":["geli"]},
+
+    {"title":"全新菁纯气垫粉底液","specs":"choose","english":"Absolue Cushion","img":"img/absolue.jpg","price":"3","code":"008","type":["fendi","qidian"]},
+
+    {"title":"菁纯臻颜精华粉底液","specs":"choose","english":"Abs FDT Fluide+Brush Coff","img":"img/abscoff.jpg","price":"5","code":"009","type":["fendi"]},
+
+    {"title":"菁纯臻颜乳液","specs":"75ml","english":"ABS Precious CellsIntense Emulsion","img":"img/15741424956546200_460X460.jpg","price":"9","code":"010","type":["ruye"]},
+
+    {"title":"黑金臻宠面霜","specs":"50ml","english":"Absolue L'extrait Ultimate Elixir","img":"img/15741424956546200_460X460.jpg","price":"13","code":"011","type":["mian"]},
+
+    {"title":"菁纯润白乳霜","specs":"60ml 轻润版","english":"Absolue Fresh Cream","img":"img/15741413904082536_460X460.jpg","price":"15","code":"012","type":["mian"]},
+
+    {"title":"菁纯臻颜润白美容液","specs":"150ml","english":"Absolue Precious Cells WhiteAura","img":"img/1574142396587745_460X460.jpg","price":"4","code":"013","type":["shui"]},
+
+    {"title":"菁纯臻颜精萃卸妆洁面啫喱","specs":"125ml","english":" ","img":"img/15741414847746460_460X460.jpg","price":"4","code":"013","type":["jiemian"]},
+
+    {"title":"黑金臻宠精华乳","specs":"30ml","english":"Absolue L’extrait Inconparable Elixir","img":"img/15741422503629227_460X460.jpg","price":"20","code":"014","type":["ruye"]},
+
+    {"title":"黑金新臻宠滋养精华面膜","specs":"30ml+8ml*14","english":"Absolue L'extrait Ultimate Mask","img":"img/15741418795951284_460X460.jpg","price":"23","code":"015","type":["mianmo"]},
+
+    {"title":"菁纯臻颜玫瑰美容液","specs":"150ml","english":"Absolue Precious Cells Rose Lotion","img":"img/pinkwater.jpg","price":"23","code":"016","type":["ruye"]},
+
+    {"title":"菁纯臻颜润白霜","specs":"50ml","english":"AAbs Pc'13 White Cream","img":"img/15733775240755930_460X460.jpg","price":"23","code":"017","type":["mian"]},
+
+    {"title":"新菁纯臻颜丝润晚霜","specs":"50ml","english":"AApcInfused Night Cream","img":"img/15741424340187700_460X460.jpg","price":"12","code":"018","type":["mian","wan"]},
+
+    {"title":"菁纯臻颜夜间修护精华油","specs":"15ml","english":"Absolue Precious Cell Rose Drop Oil","img":"img/15741425713974800_460X460.jpg","price":"13","code":"019","type":["jinghua"]},
+
+    {"title":"新菁纯臻颜洁面乳","specs":"200ml","english":"Absolue PP Demaq Huile P","img":"img/1574142610857147_460X460.jpg","price":"4","code":"020","type":["jiemian"]},
+
+    {"title":"新黑金臻宠滋养精华露","specs":"200ml","english":"Absolue L'extrait Ultimate Golden Essence Oil-Sensation","img":"img/15741422357277953_460X460.jpg","price":"27","code":"021","type":["jinghua"]},
+
+    {"title":"黑金臻宠美容液","specs":"150ml","english":"Absolue L’extrait Ultimate Beautifying Lotion","img":"img/15741423409828008_460X460.jpg","price":"18","code":"022","type":["shui"]},
+
+    {"title":"菁纯臻颜精萃卸妆洁面凝乳","specs":"120ml","english":" ","img":"img/15741415159762358_460X460.jpg","price":"4","code":"023","type":["jiemian"]},
+
+    {"title":"菁纯润白淡斑精华乳","specs":"30ml","english":"Absolue Regenerating Whitening Serum","img":"img/1574141356393554_460X460.jpg","price":"16","code":"024","type":["jinghua","ruye"]},
+
+    {"title":"菁纯臻颜玫瑰面膜","specs":"750ml","english":"Absolue Precious Cells Rose Mask","img":"img/15741424080542940_460X460.jpg","price":"14","code":"025","type":["mianmo"]},
+
+    {"title":"菁纯臻颜焕亮眼部精华乳","specs":"15ml","english":"Absolue Revitlizing Eye Serum","img":"img/15741414490231879_460X460.jpg","price":"12","code":"026","type":["jinghua","ruye"]},
+    
+    {"title":"玫瑰修护面膜*","specs":"75ml","english":"Absolue Precious Cells Revitaliz","img":"img/15285362687578181_460X460.jpg","price":"18","code":"027","type":["mianmo"]}
+]
